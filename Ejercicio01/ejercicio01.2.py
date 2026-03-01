@@ -1,3 +1,5 @@
+#ejercicio 2
+
 class Televisor:
     def __init__(self,marca=None,resolucion=None,tipo=None):
         self.__marca=marca
