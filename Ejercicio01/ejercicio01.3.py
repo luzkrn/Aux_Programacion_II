@@ -26,3 +26,9 @@ print("instrumento",violin)
 
 violin.material="vidrio"
 print(violin.material)
+
+piccolo=Instrumento("piccolo","metal","viento")
+print("instrumento",violin)
+
+piccolo.material="madera"
+print(piccolo.material)

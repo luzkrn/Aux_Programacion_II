@@ -11,7 +11,10 @@ print("----------")
 tv1 = Televisor("LG", 3840, "LG NanoCell")
 print("Televisor", tv1)
 
+tv2 = Televisor("SONY", 1080, "ledQ")
+print("Televisor", tv2)
+
 print("----------")
-tv2=Televisor()
-print("Televisor ",tv2)
+tv3=Televisor()
+print("Televisor ",tv3)
 

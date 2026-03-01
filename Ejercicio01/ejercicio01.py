@@ -11,4 +11,7 @@ class Main:
         
         A = Anime("Gachiakuta", "Accion", 24)
         print(A)
-#recomendado buen anime y ya se confirmo 2 temporada (づ｡◕‿‿◕｡)づ
+        #recomendado buen anime y ya se confirmo 2 temporada (づ｡◕‿‿◕｡)づ
+
+        B = Anime("Overlord", "Isekai", 52)
+        print(B)
